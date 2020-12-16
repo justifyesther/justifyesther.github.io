@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_play_circle" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Icon_24px" data-name="Icon 24px">
+        <path id="Shape" d="M0 0h56v56H0z" class="cls-1"/>
+        <path id="Shape-2" d="M26 52a26 26 0 1 1 26-26 26.029 26.029 0 0 1-26 26zm-5.2-37.7v23.4L36.4 26z" class="cls-2" data-name="Shape" transform="translate(2.445 2)"/>
+    </g>
+</svg>
